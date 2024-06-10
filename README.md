@@ -7,7 +7,7 @@
 
 ![screenshot](./assets/screenshot1.png)
 
-A simple newsletter form, made with HTML and CSS, for Automa Automations. Feel free to check <a href="https://survey-form-self.vercel.app/" target="_blank">the survey form</a> out, and give feedback on what I can improve if you like.  
+A simple newsletter form, made with HTML and CSS, for Automa Automations. Feel free to check <a href="https://survey-form-ten-alpha.vercel.app/" target="_blank">the survey form</a> out, and give feedback on what I can improve if you like.  
 
 ## Technologies:
 1. HTML
@@ -29,17 +29,8 @@ This project is under the MIT license. Feel free to do whatever you wnat with it
 
 ## Conclusion:
 If you are someone that are looking to hire a developer, whether it is freelancing work, an internship, or a full time position, feel free to reach out to me with one of the following channels: 
-
-<ul>
-  <li>
-    <a target="_blank" href="mailto:business@williamferns.com">Email: business@williamferns.com</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://twitter.com/willfernsdev">Twitter: willfernsdev</a>  
-  </li>
-  <li>
-    <p>Discord: williamferns</p>
-  </li>
-</ul>
-
----
+<div>
+  <a href="mailto: business@williamferns.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/william-ferns-12670a2b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank"href="https://twitter.com/willfernsdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</div>

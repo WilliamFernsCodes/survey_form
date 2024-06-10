@@ -1,6 +1,6 @@
 # Automa Automations Newsletter Form
 
-[![Survey/Newsletter Form](https://img.shields.io/badge/Newsletter_Form-purple)](https://survey-form-self.vercel.app/)
+[![Survey/Newsletter Form](https://img.shields.io/badge/Newsletter_Form-purple)](https://survey-form-ten-alpha.vercel.app/)
 ![Project Type](https://img.shields.io/badge/Project_Type:-Survey/Newsletter_Form-orange)
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-blue)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design_Course-red)](https://freecodecamp.com/learn)
